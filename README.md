@@ -4,6 +4,8 @@ This repository contains a Jupyter Notebook analyzing NBA free throw performance
 with a focus on pressure situations (clutch vs non-clutch).
 
 The dataset is included to support transparency and instructional use.
+- data/NBA_freethrows.csv: NBA free throw dataset used in the analysis
+- Download at: https://drive.google.com/file/d/1E_k5192aWKSeuR4iLSdQUcNOUeE7jE6L/view?usp=sharing
 
 ## Files
 - `NBA_Free_Throw_Hull_Spence.ipynb`: Main analysis notebook
